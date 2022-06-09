@@ -1,0 +1,44 @@
+body {
+background: #646185;
+font: normal 15pt Arial;
+
+}
+
+header {
+    color: black;
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+
+
+}
+
+section {
+    background: #F8F0FB;
+    border-radius: 10px;
+    padding: 15pt;
+    width: 500px;
+    margin: auto;
+    box-shadow:  3px 3px 7px #211A1D;
+
+}
+
+footer {
+    color: black;
+    text-align: center;
+    font-style: italic;
+}
+
+img#back {
+    width:  60px;
+    margin-left:  -645px;
+    margin-top:  -30px;
+    box-shadow: 3px 3px 7px #211A1D;
+    border-radius: 100px;
+}
+
+img#foto {
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+    
+}

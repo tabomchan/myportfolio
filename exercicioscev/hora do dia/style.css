@@ -1,0 +1,55 @@
+body {
+background: hsl(245, 16%, 45%);
+font: normal 15pt Arial;
+
+}
+
+header {
+    color: black;
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+
+
+}
+
+section {
+    background: #F8F0FB;
+    border-radius: 10px;
+    padding: 15pt;
+    width: 500px;
+    margin: auto;
+    box-shadow:  3px 3px 7px #211A1D;
+
+}
+
+footer {
+    color: black;
+    text-align: center;
+    font-style: italic;
+}
+
+div{
+    text-align: center;
+    padding: 8px;
+}
+
+div#msg {
+    font-family: 'Roboto Slab', serif;
+    font-size: 25px;
+}
+
+div#idade {
+
+    background-color: hsl(245, 16%, 45%);
+    
+
+    
+}
+
+img#ym {
+    width:  60px;
+    margin-left:  -645px;
+    margin-top:  -30px;
+    box-shadow: 3px 3px 7px #211A1D;
+    border-radius: 50px;
+}
